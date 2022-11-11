@@ -12,6 +12,7 @@ class Main {
   
 // Metodos/Funções
   public static void apresentacaoInicio(){
+    float teste;
     separador();
     System.out.print("\n");
     separador();
